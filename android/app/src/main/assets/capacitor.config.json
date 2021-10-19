@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ionic-android-hardware-back-button",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
