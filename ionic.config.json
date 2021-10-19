@@ -1,0 +1,7 @@
+{
+  "name": "ionic-android-hardware-back-button",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
